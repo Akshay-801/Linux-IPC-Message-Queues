@@ -87,8 +87,7 @@ int main()
 
 ## OUTPUT
 
-![os4](https://github.com/user-attachments/assets/8a678ef8-be86-45ad-9e5f-18054a7411e8)
-
+![alt text](ex4.png)
 
 
 # RESULT:
